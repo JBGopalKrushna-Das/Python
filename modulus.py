@@ -1,0 +1,5 @@
+a=int(input("Enter the value of a:"))
+print("the value of a is=",a)
+b=int(input("Enter the value of b:"))
+print("the value of b=",b)
+print("modulus of a and b=",a%b)
